@@ -12,3 +12,6 @@ f041_handpick_dataprocessing.csh:手動挑取地震波的到時。
 f05_sspilt.csh:計算非均向性。
 
 fSNR_tdomain.f90 & fssnr.csh : 計算時間域的訊噪比。
+
+solo_new_dataprocessing.py & 2_solo_CMT_new_process.py :
+資料處理的python版本
